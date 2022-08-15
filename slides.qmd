@@ -1,0 +1,8 @@
+---
+title: "chalkboard"
+format: 
+  revealjs:
+    chalkboard:
+      src: chalkboard.json
+---
+
